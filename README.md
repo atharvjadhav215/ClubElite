@@ -53,9 +53,7 @@ _Replace the above with the actual technologies used._
 2. **Install dependencies:**
    ```bash
    npm install
-   # or
-   yarn install
-   ```
+  
 
 3. **Set up environment variables:**  
    Create a `.env` file in the root directory and add required variables.  
@@ -68,27 +66,7 @@ _Replace the above with the actual technologies used._
 4. **Run the project:**
    ```bash
    npm start
-   # or
-   yarn start
-   ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
 
 ---
 
